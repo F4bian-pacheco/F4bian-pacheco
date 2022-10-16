@@ -16,7 +16,7 @@ Me considero un desarrollador FullStack con un buen liderazgo, empatía y aprend
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=F4bian-pacheco&theme=react&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=F4bian-pacheco&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=F4bian-pacheco&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=F4bian-pacheco&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=F4bian-pacheco&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
