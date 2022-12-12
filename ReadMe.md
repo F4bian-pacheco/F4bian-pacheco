@@ -2,7 +2,7 @@
 Soy un apasionado estudiante de 5to año de Ingeniería Civil Informática de 
 la Universidad Católica del Maule que ama la tecnología desde hace 6 años.
 Me considero un desarrollador FullStack con un buen liderazgo, empatía y aprendizaje rapido.
-### Pienso en Python, luego existo
+### <em>"Pienso en Python, luego existo"</em>
 
 
 ## 🌐 Socials:
