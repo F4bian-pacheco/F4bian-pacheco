@@ -1,8 +1,11 @@
 # 💫 About Me:
 Estudiante de 5to año de Ingeniería Civil Informática de 
-la Universidad Católica del Maule que ama la tecnología desde que tiene memoria 💻💾.
-Cuando recibi mi primer pc me gustaba instalar y desinstalar cosas, la curiosidad en el mundo de la tecnologia es algo que me fascina y siempre lo hará 🥰.
-Me considero un desarrollador Backend que esta en vias de convertirse en Fullstack, aunque me falta creatividad para el Frontend 😅.
+la Universidad Católica del Maule que ama la tecnología desde que tiene memoria💻💾. 
+
+Cuando recibi mi primer pc me gustaba instalar y desinstalar cosas, la curiosidad en el mundo de la tecnologia es algo que me fascina y siempre lo hará 🥰. 
+
+Me considero un desarrollador Backend que esta en vias de convertirse en Fullstack, aunque me falta creatividad para el Frontend 😅. 
+
 Con un buen liderazgo, empatía, proactividad y aprendizaje rapido.
 ### <em>"Pienso en Python, luego existo 🐍"</em>
 
