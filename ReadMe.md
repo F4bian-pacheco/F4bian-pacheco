@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de 5to año de Ingeniería Civil Informática de 
+Estudiante de 11vo y ultimo semestre de Ingeniería Civil Informática de 
 la Universidad Católica del Maule que ama la tecnología desde que tiene memoria💻💾. 
 
 Cuando recibi mi primer pc me gustaba instalar y desinstalar cosas, la curiosidad en el mundo de la tecnologia es algo que me fascina y siempre lo hará 🥰. 
