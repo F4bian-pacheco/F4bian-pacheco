@@ -34,7 +34,7 @@ Con un buen liderazgo, empatía, proactividad y aprendizaje rapido.
 
 ### 😂 Random Dev Joke
 
-![Chiste del Día](https://joke-readme-api-production.up.railway.app/api/joke?theme=dark&t=1234567#codeql.svg)
+![Chiste del Día](https://joke-readme-api-production.up.railway.app/api/joke?theme=dark#codeql.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=F4bian-pacheco&icon=5&color=1)](https://visitcount.itsvg.in)
