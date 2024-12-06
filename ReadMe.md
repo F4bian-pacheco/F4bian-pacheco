@@ -32,8 +32,9 @@ Con un buen liderazgo, empatía, proactividad y aprendizaje rapido.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-* Pendiente
+### 😂 Random Dev Joke
+
+[![Chiste del Día](https://joke-readme-api-production.up.railway.app/api/joke?theme=dark)](https://joke-readme-api-production.up.railway.app/api/joke?theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=F4bian-pacheco&icon=5&color=1)](https://visitcount.itsvg.in)
